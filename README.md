@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="DeepShield Banner" width="100%">
+<img src="banner.svg" alt="DeepShield Banner" width="100%">
 
 <br/>
 
